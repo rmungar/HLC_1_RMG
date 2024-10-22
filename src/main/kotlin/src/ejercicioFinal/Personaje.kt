@@ -1,0 +1,4 @@
+package ejercicioFinal
+
+class Personaje {
+}
